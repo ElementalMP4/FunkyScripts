@@ -14,7 +14,6 @@ NOTE: Although none of these scripts are harmful, don't put them on anyone's com
 
 1) Open up a new powershell window
 2) Type in `stop-process -name wscript`
-
 3) Open up Windows Run (win + r)
 4) Type in `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`
 5) Delete the scripts from the folder
